@@ -1,18 +1,18 @@
-# IMDB Windows Application
+# N_Puzzle_Game
 A windows application version of IMDB website
 
-![](screenshots/img-1.png)
+![](screenshots/img1.png | width=100)
 
-![](screenshots/img-2.png)
+![](screenshots/img2.png | width=100)
 
-![](screenshots/img-3.png)
+![](screenshots/img3.png | width=100)
 
-![](screenshots/img-4.png)
+![](screenshots/img4.png | width=100)
 
-![](screenshots/img-5.png)
+![](screenshots/img5.png | width=100)
 
-![](screenshots/img-6.png)
+![](screenshots/img6.png | width=100)
 
-![](screenshots/img-7.png)
+![](screenshots/img7.png | width=100)
 
-![](screenshots/img-9.png)
+![](screenshots/img9.png | width=100)
