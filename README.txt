@@ -14,4 +14,4 @@ A windows application version of IMDB website
 
 ![](screenshots/img-7.png)
 
-![](screenshots/img-8.png)
+![](screenshots/img-9.png)
