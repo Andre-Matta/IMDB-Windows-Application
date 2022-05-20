@@ -1,4 +1,4 @@
-# N_Puzzle_Game
+# **IMDB Windows Application**
 A windows application version of IMDB website
 
 ![](screenshots/img1.png | width=100)
